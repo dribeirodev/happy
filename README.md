@@ -3,26 +3,18 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-</p>
-
-<br>
 
 <p align="center">
   <img alt="Happy Web" src=".github/happy_web.gif" width="75%">
   <img alt="Happy Mobile" src=".github/happy_mobile.gif" width="15.8%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technology
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -30,10 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 💻 Project
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+Happy is an application that connects people to institutional care homes to make many children's day happier 💙
 
 ---
 
-Curso instruido by Rocketseat;
+<h4>
+    Done with 💛 by <a href="https://www.linkedin.com/in/diego-ribeiro-10a14477/" target="_blank">Diego Ribeiro</a>
+</h4>
